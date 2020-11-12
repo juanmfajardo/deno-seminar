@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "uuid": "https://deno.land/std/uuid/mod.ts",
+        "d3": "https://cdn.skypack.dev/d3@6.2.0",
+        "lodash": "https://dev.jspm.io/lodash@4.17.15",
+        "moment": "https://dev.jspm.io/moment@2.24.0"
+    }
+}
